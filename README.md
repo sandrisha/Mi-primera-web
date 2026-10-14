@@ -6,7 +6,7 @@ title: Mi primera web
 
 
 
-\# ¡Hola! 👋
+\#¡Hola! 👋
 
 
 
@@ -14,7 +14,7 @@ Esta es mi primera web creada con Markdown y GitHub Pages.
 
 
 
-\## Qué encontrarás aquí
+\##Qué encontrarás aquí
 
 
 
@@ -26,9 +26,9 @@ Esta es mi primera web creada con Markdown y GitHub Pages.
 
 
 
-\[Empezar](frase-recuperacion.html)
+\[Empezar](frase-recuperacion.md)
 
 
 
-\[!\[Empezar](https://img.shields.io/badge/Empezar-4CAF50?style=for-the-badge)](frase-recuperacion.md)
+
 
