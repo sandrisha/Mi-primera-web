@@ -1,5 +1,3 @@
-text
-
 \---
 
 title: Mi primera web
@@ -27,5 +25,10 @@ Esta es mi primera web creada con Markdown y GitHub Pages.
 \- Recursos para la comunidad
 
 
-\[\[!\[Empezar](https://img.shields.io/badge/Empezar-4CAF50?style=for-the-badge)](frase-recuperacion.md)
+
+\[Empezar](frase-recuperacion.html)
+
+
+
+\[!\[Empezar](https://img.shields.io/badge/Empezar-4CAF50?style=for-the-badge)](frase-recuperacion.md)
 
