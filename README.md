@@ -16,11 +16,13 @@ Con tu frase de recuperación puedes:
 ## Cómo guardarla
 
 1. Abre el **menú principal**.
-2. Pulsa la **rueda de opciones** (⚙) de tu tarjeta.
+2. Pulsa la **rueda dentada** (⚙) que está en la parte de abajo de tu tarjeta.
+> **Ojo:** no pulses el icono verde de arriba (añadir cuenta) ni la **papelera**, que borra el monedero.
 3. Selecciona **Mostrar semilla**.
-4. Si tu cuenta está protegida, desbloquéala con tu patrón, contraseña o huella y pulsa **Continua**.
-5. Pulsa **Mostrar**. Aparecerán tus 12 palabras.
-6. Escríbelas **en papel**, en el mismo orden.
+4. Desbloquea tu monedero con tu **contraseña**, tu **patrón** o la **biometría** (huella).
+5. Pulsa **Continua**.
+6. Pulsa **Mostrar**. Aparecerán tus 12 palabras.
+7. Escríbelas **en papel**, en el mismo orden.
 
 > **Consejo:** haz dos copias y guárdalas en sitios distintos.
 
