@@ -1,8 +1,3 @@
-<style>
-img { max-width: min(100%, 420px); height: auto; }
-li img { max-width: min(100%, 280px); border-radius: 16px; }
-</style>
-
 # Guarda tu frase de recuperación
 
 ![Persona escribiendo en un cuaderno junto a una taza de café](imagenes/frase-recuperacion.webp)
