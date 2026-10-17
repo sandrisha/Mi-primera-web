@@ -32,7 +32,7 @@ Con tu frase de recuperación puedes:
 
 3. Selecciona **Mostrar semilla**.
 
-    ![Menú Opciones de Tarjeta con Mostrar semilla marcado con el número 3](imagenes/es-semilla-3-mostrar-semilla.webp)
+    <img src="imagenes/es-semilla-3-mostrar-semilla.webp" alt="Menú Opciones de Tarjeta con Mostrar semilla marcado con el número 3" width="280">
 
 4. Desbloquea tu monedero con tu **contraseña**, tu **patrón** o la **biometría** (huella).
 
