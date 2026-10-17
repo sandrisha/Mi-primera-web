@@ -1,0 +1,18 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Imágenes: nunca más anchas que la pantalla */
+img {
+  max-width: min(100%, 420px);
+  height: auto;
+}
+
+/* Capturas dentro de los pasos: más pequeñas y con esquinas redondeadas */
+li img {
+  max-width: min(100%, 280px);
+  display: block;
+  margin: 0.8rem 0;
+  border-radius: 16px;
+}
