@@ -78,8 +78,7 @@
 .markdown-body {
   max-width: 900px;
   margin-left: auto;
-  margin-right: auto;
-  font-size: 18px;
+  margin-right: auto;  
 }
 
 /* ---------- Cabecera de la página ---------- */
@@ -100,4 +99,60 @@
   .markdown-body .portada {
     grid-template-columns: 1fr 340px;
   }
+}
+
+/* ---------- Tipografías propias ---------- */
+
+@font-face {
+  font-family: 'Coiny';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/coiny-latin-ext-400-normal.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Coiny';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/coiny-latin-400-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200 1000;
+  font-display: swap;
+  src: url('../fonts/nunito-latin-ext-400-normal.woff2') format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 200 1000;
+  font-display: swap;
+  src: url('../fonts/nunito-latin-400-normal.woff2') format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  font-family: 'Coiny', 'Arial Narrow', sans-serif;
+  font-weight: 400;
+  border-bottom: none;
+}
+
+.markdown-body h1 { font-size: 2.4rem; line-height: 1.15; }
+.markdown-body h2 { font-size: 1.8rem; line-height: 1.2; }
+.markdown-body h3 { font-size: 1.4rem; line-height: 1.25; }
+
+.markdown-body {
+  font-family: 'Nunito', 'Segoe UI', Arial, sans-serif;
+  font-size: 19px;
+  font-weight: 500;
 }
