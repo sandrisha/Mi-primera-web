@@ -16,3 +16,59 @@
   margin: 0.8rem 0;
   border-radius: 16px;
 }
+
+/* ---------- Pasos numerados ---------- */
+
+.markdown-body ol {
+  list-style: none;
+  padding-left: 0;
+  counter-reset: paso;
+}
+
+.markdown-body ol > li {
+  counter-increment: paso;
+  display: grid;
+  grid-template-columns: 2.2rem 1fr;
+  column-gap: 0.8rem;
+  margin-bottom: 1.5rem;
+}
+
+/* El círculo con el número */
+.markdown-body ol > li::before {
+  content: counter(paso);
+  grid-column: 1;
+  grid-row: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  background: #4f7a00;
+  color: #ffffff;
+  font-weight: 700;
+}
+
+/* Todo lo que hay dentro del paso va en la columna de contenido */
+.markdown-body ol > li > * {
+  grid-column: 2;
+  margin-top: 0;
+}
+
+/* El texto del paso, en la primera fila junto al número */
+.markdown-body ol > li > p:first-of-type {
+  grid-row: 1;
+}
+
+/* ---------- Solo en pantallas grandes: imagen a la derecha ---------- */
+
+@media (min-width: 800px) {
+  .markdown-body ol > li {
+    grid-template-columns: 2.2rem 1fr 280px;
+  }
+
+  .markdown-body ol > li > p:has(img) {
+    grid-column: 3;
+    grid-row: 1 / span 3;
+  }
+}
