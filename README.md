@@ -2,9 +2,9 @@
 
 <div class="portada-texto" markdown="1">
 
-# Guarda tu frase de recuperación Ğ1
+# Guarda tu <span class="verde">frase de recuperación</span>
 
-Tu **frase de recuperación** son **12 palabras** que protegen tu monedero Ğğ1. En la app también la verás como **frase semilla** o **semilla**: es lo mismo.
+Tu **frase de recuperación** son **12 palabras** que protegen tu monedero. En la app también la verás como **frase semilla** o **semilla**: es lo mismo.
 
 > **Importante:** si pierdes el móvil y no tienes esta frase, no podrás recuperar tus Junas. Nadie puede hacerlo por ti.
 

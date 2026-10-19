@@ -44,8 +44,8 @@
   width: 2rem;
   height: 2rem;
   border-radius: 50%;
-  background: #4f7a00;
-  color: #ffffff;
+  background: #AAD400;
+  color: #445500;
   font-weight: 700;
 }
 
@@ -173,4 +173,46 @@
   font-family: 'Nunito', 'Segoe UI', Arial, sans-serif;
   font-size: 19px;
   font-weight: 400;
+}
+
+/* ---------- Colores del logo ---------- */
+
+body {
+  background: #F6FAE6;
+}
+
+.markdown-body,
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3 {
+  color: #1F2600;
+}
+
+/* Palabras del título en verde oscuro (dos colores) */
+.markdown-body .verde {
+  color: #445500;
+}
+
+.markdown-body a {
+  color: #445500;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.markdown-body a:hover {
+  color: #1F2600;
+}
+
+/* Avisos como tarjeta con degradado */
+.markdown-body blockquote {
+  background: linear-gradient(135deg, #EAF4B8 0%, #F6FAE6 100%);
+  border-left: 6px solid #AAD400;
+  border-radius: 16px;
+  color: #1F2600;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+}
+
+.markdown-body blockquote p {
+  margin: 0;
 }
