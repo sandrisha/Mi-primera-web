@@ -25,29 +25,29 @@ Con tu frase de recuperación puedes:
 
 1. Abre el **menú principal**.
 
-    ![Pantalla Pagar con Ğ1 con el botón de menú marcado con el número 1](imagenes/es-semilla-1-menu.webp)
+    ![Pantalla Pagar con Ğ1 con el botón de menú marcado con el número 1](guia-g1nkgo/imagenes/es-semilla-1-menu.webp)
 
 2. Pulsa la **rueda dentada** (⚙) que está en la parte de abajo de tu tarjeta.
 
-    ![Tarjeta del monedero con la rueda dentada marcada con el número 2](imagenes/es-semilla-2-rueda.webp)
+    ![Tarjeta del monedero con la rueda dentada marcada con el número 2](guia-g1nkgo/imagenes/es-semilla-2-rueda.webp)
 
     > **Ojo:** no pulses el icono verde de arriba (añadir cuenta) ni la **papelera**, que borra el monedero.
 
 3. Selecciona **Mostrar semilla**.
 
-    ![Menú Opciones de Tarjeta con Mostrar semilla marcado con el número 3](imagenes/es-semilla-3-mostrar-semilla.webp)
+    ![Menú Opciones de Tarjeta con Mostrar semilla marcado con el número 3](guia-g1nkgo/imagenes/es-semilla-3-mostrar-semilla.webp)
 
 4. Desbloquea tu monedero con tu **contraseña**, tu **patrón** o la **biometría** (huella).
 
-    ![Pantalla Desbloquea tu monedero con el campo de contraseña marcado con el número 4](imagenes/es-semilla-4-desbloquear.webp)
+    ![Pantalla Desbloquea tu monedero con el campo de contraseña marcado con el número 4](guia-g1nkgo/imagenes/es-semilla-4-desbloquear.webp)
 
 5. Pulsa **Continua**.
 
-    ![Botón Continua marcado con el número 5](imagenes/es-semilla-5-continua.webp)
+    ![Botón Continua marcado con el número 5](guia-g1nkgo/imagenes/es-semilla-5-continua.webp)
 
 6. Pulsa **Mostrar**. Aparecerán tus 12 palabras.
 
-    ![Diálogo Frase de recuperación con el botón Mostrar marcado con el número 6](imagenes/es-semilla-6-mostrar.webp)
+    ![Diálogo Frase de recuperación con el botón Mostrar marcado con el número 6](guia-g1nkgo/imagenes/es-semilla-6-mostrar.webp)
 
 7. Escríbelas **en papel**, en el mismo orden.
 
