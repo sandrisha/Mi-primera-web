@@ -10,7 +10,7 @@ Tu **frase de recuperación** son **12 palabras** que protegen tu monedero. En l
 
 </div>
 
-![Persona escribiendo en un cuaderno junto a una taza de café](imagenes/frase-recuperacion.webp)
+![Persona escribiendo en un cuaderno junto a una taza de café](guia-g1nkgo/imagenes/frase-recuperacion.webp)
 
 </div>
 
